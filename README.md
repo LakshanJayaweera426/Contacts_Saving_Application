@@ -1,6 +1,6 @@
 # GoContactManager
 
-This Go (Golang) code is a simple command-line program for managing a contact list. Here's a description of the code's functionality and structure for GitHub:
+This Go (Golang) code is a simple command-line program for managing a contact list. Here's a description of the code's functionality and structure:
 
 Functionality:
 1. Contact Struct: This code defines a Contact struct to represent individual contacts. A contact has three fields: Name, Email, and Phone.
