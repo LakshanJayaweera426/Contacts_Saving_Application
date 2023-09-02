@@ -1,4 +1,4 @@
-# Contacts_Saving_Application
+# GoContactManager
 
 This Go (Golang) code is a simple command-line program for managing a contact list. Here's a description of the code's functionality and structure for GitHub:
 
